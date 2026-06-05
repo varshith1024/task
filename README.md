@@ -88,8 +88,6 @@ task/
 │   ├── public/
 │   ├── src/
 │   │   ├── api/
-│   │   ├── assets/
-│   │   ├── components/
 │   │   ├── context/
 │   │   ├── pages/
 │   │   ├── App.jsx
@@ -223,7 +221,7 @@ Create README, screenshots, deployment guide, and project documentation.
 
 ## Video Demonstration
 
-Google Drive Link:
+Google Drive Link: https://drive.google.com/file/d/1ZcOpzOoUgYLSLcZb7jKhACOb442GQc54/view?usp=drivesdk
 
 
 
