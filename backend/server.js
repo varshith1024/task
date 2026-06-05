@@ -12,6 +12,10 @@ app.use(express.json());
 app.use('/api/auth', require('./routes/auth'));
 app.use('/api/tasks', require('./routes/tasks'));
 
+app.get('/', (req, res) => {
+  res.send('Task Manager Backend Running');
+});
+
 // DB + Start
 mongoose.connect(process.env.MONGO_URI)
   .then(() => {
