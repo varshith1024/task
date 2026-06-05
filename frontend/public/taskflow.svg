@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect
+    x="16"
+    y="16"
+    width="480"
+    height="480"
+    rx="96"
+    fill="#c8f55a"
+  />
+
+  <g
+    fill="none"
+    stroke="#111111"
+    stroke-width="28"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  >
+    <path d="M192 120h-32c-22 0-40 18-40 40v192c0 22 18 40 40 40h192c22 0 40-18 40-40V160c0-22-18-40-40-40h-32" />
+
+    <path d="M192 120c0-22 18-40 40-40h48c22 0 40 18 40 40s-18 40-40 40h-48c-22 0-40-18-40-40z" />
+
+    <path d="M208 272l40 40 88-88" />
+  </g>
+</svg>
