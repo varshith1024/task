@@ -13,7 +13,7 @@ app.use('/api/auth', require('./routes/auth'));
 app.use('/api/tasks', require('./routes/tasks'));
 
 app.get('/', (req, res) => {
-  res.send('Task Manager Backend Running');
+  res.send('TaskFlow Backend Running');
 });
 
 // DB + Start
